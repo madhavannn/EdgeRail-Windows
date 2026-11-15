@@ -84,4 +84,4 @@ Self-tests do not change system volume/brightness or send shortcuts. They cover 
 
 ## License
 
-This original EdgeRail implementation is provided under the MIT license in LICENSE.txt. Padrail is a separate project owned by its authors.
+This original EdgeRail implementation is provided under the MIT license in LICENSE.txt.
