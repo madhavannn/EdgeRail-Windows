@@ -1,0 +1,23 @@
+PASS corner is excluded
+PASS right edge starts
+PASS up increases
+PASS down decreases
+PASS noise is ignored
+PASS lift resets
+PASS center contact cannot enter rail
+PASS two fingers cancel
+PASS multi-finger rejection persists
+PASS top edge starts
+PASS right increases
+PASS leaving rail cancels
+PASS leaving rail requires lift
+PASS left up increases
+PASS bottom left decreases
+PASS out of range rejected
+PASS stalled report produces one step
+PASS browser adaptive mapping
+PASS music adaptive mapping
+PASS default adaptive mapping
+PASS settings XML roundtrip
+PASS Win32 INPUT ABI
+ALL TESTS PASSED

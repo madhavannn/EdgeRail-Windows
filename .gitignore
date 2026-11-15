@@ -1,0 +1,9 @@
+source/dist/
+*.pdb
+*.tmp
+*.error.txt
+results.txt
+settings.xml
+.vs/
+bin/
+obj/

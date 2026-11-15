@@ -1,0 +1,12 @@
+EdgeRail Windows development build - verification
+
+PASS: build.cmd compiled the application with the Windows .NET Framework compiler, without package downloads or compiler warnings.
+PASS: 22 self-tests (see self-test-results.txt).
+PASS: WinForms startup, settings controls and populated mappings.
+PASS: pause and resume state transitions and button labels.
+PASS: rendering the settings window to a bitmap.
+PASS: clean window shutdown and repeated Dispose.
+
+Not hardware validated: native touchpad HID layouts, multi-monitor edge interaction, real brightness changes, media commands and shortcuts in other applications. Those features need an interactive check on the target computer. The native input reader conservatively rejects unsupported report layouts. Physical touchpad-edge support is not universal; compatibility mode uses screen-edge pointer movement while Alt is held.
+
+This package is an unsigned portable development build. It does not include an installer or an automatic updater.
